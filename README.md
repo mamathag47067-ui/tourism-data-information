@@ -30,6 +30,7 @@ An interactive tourism dashboard built with **Python, Streamlit, Pandas, and Plo
    ```
 
 4. Start the dashboard:
+dashboard link :https://tourism-data-information-jmauaacigoyuqfzbyh4cec.streamlit.app/
 
    ```bash
    streamlit run app.py
